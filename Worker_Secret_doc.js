@@ -144,7 +144,7 @@ function renderHTML() {
     <div id="link"></div><br></br>
     <div id="error" style="color: red;"></div>
     <footer>      
-      <p>© 秘密文档 - 极简、<a href="https://github.com/fzxx/Cloudflare-Worker-Secret-doc" target="_blank" rel="noopener noreferrer">开源</a>的在线文档。</p>
+      <p>© 秘密文档 - 极简、<a href="https://github.com/benefit77/Cloudflare-Worker-Secret-doc" target="_blank" rel="noopener noreferrer">开源</a>的在线文档。</p>
     </footer>
     <script>
         var simplemde = new SimpleMDE({ element: document.getElementById("markdown-editor") });
